@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renurin&label=Profile%20views&color=0e75b6&style=flat" alt="renurin" /> </p>
 
 - 🔭 I’m currently working on [React project (Contributor)](https://github.com/aprxl/unitwt)
-- [Full-stack project(Faculty)](https://github.com/unb-mds/2024-1-Squad08)
 
 - 🌱 I’m currently learning **React js**
 
