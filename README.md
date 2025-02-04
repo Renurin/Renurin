@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renurin&label=Profile%20views&color=0e75b6&style=flat" alt="renurin" /> </p>
 
-- 🔭 I’m currently working on [React project (Contributor)](https://github.com/aprxl/unitwt)
+- 🔭 I’m currently working on [Plant Disease AI (DevOps)](https://github.com/FGA0138-MDS-Ajax/2024.2-Virgo)
 
 - 🌱 I’m currently learning **React js**
 
