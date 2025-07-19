@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java language**
 
-- 📫 How to reach me **rcamaradeoliveirafarias@gmail.com**
+- 📫 How to reach me **renurintosk@gmail.com**
 
 - ⚡ Fun fact **Kirby lover.**
 
